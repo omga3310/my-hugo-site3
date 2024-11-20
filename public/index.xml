@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://omga3310.github.io/my-hugo-site3/</link>
+    <link>http://localhost:1313/my-hugo-site3/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Nov 2024 03:16:18 +0800</lastBuildDate>
-    <atom:link href="https://omga3310.github.io/my-hugo-site3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Nov 2024 04:37:03 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-hugo-site3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/my-hugo-site3/about/</link>
+      <pubDate>Thu, 21 Nov 2024 04:37:03 +0800</pubDate>
+      <guid>http://localhost:1313/my-hugo-site3/about/</guid>
+      <description>&lt;p&gt;#about&lt;/p&gt;&#xA;&lt;p&gt;大家好！我是大學四年級的學生，目前正專注於學術學習與實務專案的開發。我的興趣廣泛，包括程式開發、遊戲探索以及專案創新。我正在準備畢業專題，主要是使用 AI 辨識車輛違規及交通相關路牌的技術，結合台中市常見的場景進行應用。&lt;/p&gt;&#xA;&lt;p&gt;除了學術工作外，我也熱衷於遊戲體驗，例如《Arcaea》和《美麗水世界》，它們激發了我的創造力與挑戰精神&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://omga3310.github.io/my-hugo-site3/posts/my-first-post/</link>
+      <link>http://localhost:1313/my-hugo-site3/posts/my-first-post/</link>
       <pubDate>Thu, 21 Nov 2024 03:16:18 +0800</pubDate>
-      <guid>https://omga3310.github.io/my-hugo-site3/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/my-hugo-site3/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
